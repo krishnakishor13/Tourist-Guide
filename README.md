@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-30.herokuapp.com) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/nkereuwem/touristguide-ed.git
+git clone https://github.com/krishnakishor13/Tourist-Guide.git
 ```
 
 2. Backend setting
